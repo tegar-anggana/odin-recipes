@@ -14,3 +14,13 @@ a {
 a {
   text-decoration: none;
 }
+
+.page {
+  display: flex;
+  justify-content: center;
+}
+
+.recipes {
+  border: 3px solid black;
+  padding: 30px;
+}
